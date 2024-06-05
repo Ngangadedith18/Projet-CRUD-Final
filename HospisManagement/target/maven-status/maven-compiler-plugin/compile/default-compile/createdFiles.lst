@@ -1,0 +1,15 @@
+View\Dossier_View$5.class
+com\mycompany\hospismanagement\HospisManagement.class
+View\Patient_View.class
+controleur\Patient_Actions.class
+View\Dossier_View.class
+modele\dossier.class
+View\Dossier_View$4.class
+View\Dossier_View$2.class
+View\Dossier_View$1.class
+View\Dossier_View$3.class
+Dao\ConnexionBase.class
+modele\patient.class
+View\Patient_View$1.class
+controleur\Dossier_Actions.class
+controleur\test.class
